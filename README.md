@@ -7,6 +7,7 @@
 - 🔄 Data loading and mutations
 - 🔒 TypeScript by default
 - 🎉 TailwindCSS for styling
+- - PUTER: <script src="https://js.puter.com/v2/"></script>
 
 ```
 ├── package.json
